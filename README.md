@@ -1,2 +1,1 @@
-# Im-Tae.github.io
-My Portfolio
+# [Im-Tae.github.io](https://im-tae.github.io)
