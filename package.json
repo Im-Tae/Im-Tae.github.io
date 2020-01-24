@@ -1,0 +1,12 @@
+{
+  "name": "Im-Tae.github.io",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Im-Tae/Im-Tae.github.io",
+  "author": "Im-Tae <dlaxo2420@naver.com>",
+  "license": "MIT"
+}
