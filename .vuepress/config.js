@@ -8,11 +8,6 @@ module.exports = {
         { text: 'Github', link: 'https://github.com/Im-Tae', target:'_blank'  },
         { text: 'Tistory', link: 'https://imleaf.tistory.com/', target:'_blank' },
         { text: 'LinkedIn', link: 'https://www.linkedin.com/in/limtaegeon/', target:'_blank' }
-      ],
-      sidebar: [
-        '/',
-        '/page-a',
-        ['/page-b', 'Explicit link text']
       ]
     }, 
     plugins: [
